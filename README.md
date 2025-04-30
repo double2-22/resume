@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>정석용 이력서</title>
+  <title>김다연 이력서</title>
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
@@ -118,9 +118,9 @@
     <div class="section">
       <div class="profile">
         <div>
-          <div class="highlight">정석용 - 개발자 이력서 sample</div>
+          <div class="highlight">김다연 - 개발자 이력서 sample</div>
           <div class="subinfo">프론트엔드 개발자</div>
-          <p>이메일: syjung@dongyang.ac.kr</p>
+          <p>이메일: dyk20133@gmail.com</p>
           <p>
             노션 이력서:  
             <a href="https://www.dongyang.ac.kr" target="_blank">
@@ -134,13 +134,14 @@
 
     <div class="section" id="skills">
       <h2>기술 스택</h2>
-      <p>Front End : Next.js, React, TypeScript, Tailwind CSS, React Query</p>
+      <p>Front End : HTML, CSS, JavaScript, Java</p>
     </div>
 
     <div class="section" id="career">
       <h2>경력</h2>
-      <p><strong>졸업작품 프로젝트</strong> - 손 동작 인식을 통한 재활 솔루션 개발 / 프론트엔드 개발발 (2025.03 ~ 2025.10, 8개월)</p>
-      <p>∙ 요구사항 분석 및 DataBase 모델링</p>
+      <p><strong>졸업작품 프로젝트</strong> - 식물 생장 프로그램 / 하드웨어 및 프론트엔드 (2025.01 ~ 2025.10, 10개월)</p>
+      <p>∙ 세부페이지(마이페이지, IoT알림페이지, IoT값 확인페이지) 디자인</p>
+      <p>∙ IoT와 ReactNative 커넥팅</p>
       <p>∙ AWS를 활용한 컴퓨팅 환경 구축</p>
     </div>
 
@@ -154,16 +155,13 @@
 
     <div class="section" id ="education">
         <h2>교육</h2>
-        <p><strong>동양미래대학교</strong> - 컴퓨터소프트웨어공학과 (2022.03-2026.2)</p>
-        <p><strong>ooo고등학교</strong> -  (2022.03-2026.2)</p>
+        <p><strong>동양미래대학교</strong> - 컴퓨터소프트웨어공학과 (2023.03-2026.2)</p>
+        <p><strong>동작고등학교</strong> -  (2020.03-2023.02)</p>
     </div>
 
     <div class="section" id="cerificate">
         <h2>수상 및 자격</h2>
-        <p><strong>전공동아리 EL 활동</strong> - 컴퓨터소프트웨어공학과 작품개발 동아리리 (2022.03-2026.2)</p>
-        <p>∙ 손동작 게임 개발 (Ubity/C#)</p>
-        <p>∙ OOO DashBoard 개발 (Python/Streamlit)</p>
-        <p>∙ 동양미래EXPO(동양미래대학교 작품전시회-COEX 대상 수상)</p>
+
     </div>
 
   </div>
